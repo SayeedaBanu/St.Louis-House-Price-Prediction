@@ -163,7 +163,7 @@ This plot shows systematic variation, hinting at non-linear patterns. A more com
 
 **Sayeeda Banu**
 GitHub: [SayeedaBanu](https://github.com/SayeedaBanu)
-Email: [Zaffarullahs20@gmail.com](mailto:zaffarullahs20@gmail.com)
+Email: [Mohammadisayu20@gmail.com](mailto:mohammadisayu20@gmail.com)
 
 ```
 ```
